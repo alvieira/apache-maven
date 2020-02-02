@@ -1,2 +1,1 @@
-# apache-maven
 # hello-maven
